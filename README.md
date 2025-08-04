@@ -31,4 +31,4 @@ If any of the processes fail, the program will notify you. It handles four types
 ---
 
 I sincerely hope this code helps someone out there.  
-**A big hello from Mexico!** 🇲🇽
+**A big HUGE from Mexico!** 🇲🇽
